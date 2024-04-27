@@ -1,17 +1,18 @@
 # South Africa Political Party Alignment Tool
 
-Welcome to the South Africa Political Party Alignment Tool.
-This tool is designed to help South African citizens discover which political parties best align with their personal values and visions for the country.
-By leveraging the manifestos of all parties registered under the Independent Electoral Commission (IEC), this tool offers a tailored analysis based on your input.
+# Welcome to Politiker!
+
+**Politika** is a bot designed to help citizens of South Africa discover which political parties align with their personal values and the changes they wish to see in their country.
+By inputting your values, aspirations, and beliefs, Politiker leverages data from every manifesto listed under the Independent Electoral Commission (IEC) to provide you with tailored recommendations.
 
 # How It Works
 
-1.Input Your Values: Begin by entering your aspirations for the nation and your core beliefs. 
+**1.Input Your Values:** Begin by entering your aspirations for the nation and your core beliefs. 
 Examples could include specific policy areas like education, healthcare, economic development, or broader themes such as governance and human rights.
 
-2.Analysis: The tool processes your input against the manifestos of various political parties to identify which ones share your values and vision.
+**2.Analysis:** The tool processes your input against the manifestos of various political parties to identify which ones share your values and vision.
 
-3.Results: You'll receive a detailed breakdown of which political parties align with your views, helping you make informed decisions about your political support or engagement.
+**3.Results:** You'll receive a detailed breakdown of which political parties align with your views, helping you make informed decisions about your political support or engagement.
 
 # Getting Started
 
