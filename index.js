@@ -6,7 +6,7 @@ const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 
 async function run() {
     const model = genAI.getGenerativeModel({ model: "gemini-pro"});
-    const prompt = "Write a story about a magic book";
+    const prompt = "List top political parties in South Africa";
     const result = await model.generateContent(prompt);
     const response = await result.response;
     const text = response.text();
